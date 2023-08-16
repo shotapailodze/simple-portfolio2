@@ -12,9 +12,9 @@ export default [
         link: '',
     },
     {
-        title: 'Tesla Clone',
-        imgUrl: 'https://user-images.githubusercontent.com/55694002/250393270-baf21cd2-9d1e-4835-8120-752364bc396b.png',
-        stack: ['Styled Components', 'React'],
-        link: 'https://github.com/shotapailodze/tesla-clone',
+        title: 'Delicious',
+        imgUrl: 'https://user-images.githubusercontent.com/55694002/261073720-dfc865c1-4b5a-4a1a-be6c-da4ebc713e41.png',
+        stack: ['Styled Components', 'React', 'Spoonacular API'],
+        link: 'https://github.com/shotapailodze/delicious',
     },
 ]
